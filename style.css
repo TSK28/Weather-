@@ -1,0 +1,17 @@
+.nav-content{
+    width: 60%;
+}
+.weather{
+    font-weight:bolder;
+    font-size: 2rem;
+}
+.card-header{
+    background-color: #C147E9 !important;
+    border-color: #C147E9 !important;
+}
+.search-btn{
+    background-color: white;
+    color: black;
+    border-color: #C147E9;
+}
+
